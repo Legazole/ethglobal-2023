@@ -1,2 +1,5 @@
 # ethglobal-2023
-ethglobal2023-submission
+
+Learning project for ethglobal-2023
+
+Exploring uniswap and safe protocol
